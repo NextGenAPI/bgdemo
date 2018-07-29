@@ -14,10 +14,6 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
-          <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
-            <li>Basic</li>
-          </ol>
           <h1>Welcome to DevOps CD/CI Demo</h1>
           <p>The purpose of this site is to demonstrate CD/CI pipeline capabilities. Pipeline build is working !</p>
         </div>
