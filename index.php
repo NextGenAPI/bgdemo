@@ -9,8 +9,6 @@
     <link rel="shortcut icon" href="../dist/img/favicon.ico">
     <!-- iPhone non-retina icon (iOS < 7) -->
     <link rel="apple-touch-icon-precomposed" sizes="366x384" href="../dist/img/Ericsson.png">
-    <link href="../dist/css/patternfly.min.css" rel="stylesheet" media="screen, print">
-    <link href="../dist/css/patternfly-additions.min.css" rel="stylesheet" media="screen, print">
     <script src="../components/jquery/dist/jquery.min.js"></script>
     <script src="../components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="../components/datatables/media/js/jquery.dataTables.js"></script>
