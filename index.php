@@ -84,6 +84,10 @@
                 <td>Pod Port</td>
                 <td><?php echo $_SERVER['SERVER_PORT'] ?></td>
               </tr>
+              <tr>
+                <td>Project Name</td>
+                <td><?php echo $_SERVER['SERVER_HOST'] ?></td>
+              </tr>
             </tbody>
           </table>
         </div>
