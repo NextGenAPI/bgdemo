@@ -4,7 +4,7 @@
 <html>
 <!--<![endif]-->
   <head>
-    <title>UMoile Demo</title>
+    <title>UMobile Demo</title>
     <script src="../components/jquery/dist/jquery.min.js"></script>
     <script src="../components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="../components/datatables/media/js/jquery.dataTables.js"></script>
