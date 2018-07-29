@@ -45,9 +45,9 @@
           </table>
         </div>
         <div class="col-md-6 col-md-offset-3">
-          <h2>Application Example</h2>
+          <h2>Giler Plan from U Mobile</h2>
           <p>
-            <img src="bluerose.jpeg">
+            <img src="giler.jpeg">
           </p>
         </div>
       </div>
