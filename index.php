@@ -5,10 +5,6 @@
 <!--<![endif]-->
   <head>
     <title>UMoile Demo</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="../dist/img/favicon.ico">
-    <!-- iPhone non-retina icon (iOS < 7) -->
-    <link rel="apple-touch-icon-precomposed" sizes="366x384" href="../dist/img/Ericsson.png">
     <script src="../components/jquery/dist/jquery.min.js"></script>
     <script src="../components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="../components/datatables/media/js/jquery.dataTables.js"></script>
