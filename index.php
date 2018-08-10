@@ -45,9 +45,9 @@
           </table>
         </div>
         <div class="col-md-6 col-md-offset-3">
-          <h2>Giler Plan from U Mobile</h2>
+          <h2>UMI Plan from U Mobile</h2>
           <p>
-            <img src="giler.jpeg" height="400" width="800">
+            <img src="umi.jpeg" height="400" width="800">
           </p>
         </div>
       </div>
